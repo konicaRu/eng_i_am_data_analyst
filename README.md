@@ -1,5 +1,8 @@
 ![](https://github.com/konicaRu/pictures_blog/blob/master/anal_logo_yn_logo_prof.jpg)(https://praktikum.yandex.ru)
 
+[logo]: http://www.google.com/images/logo.gif
+[google]: http://www.google.com/ "щелкните, чтобы посетить Google.com"
+
 ## Description of my projects. 
 **№** |**Description of the project** |**Skills and tools**
 :-----------:|----------|------------------------  
