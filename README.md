@@ -1,7 +1,7 @@
 ![![](https://praktikum.yandex.ru)](https://github.com/konicaRu/pictures_blog/blob/master/anal_logo_yn_logo_prof.jpg)
 
-## Описание моих проектов. 
-**№** |**Описание проекта** |**Навыки и инструменты**
+## Description of my projects. 
+**№** |**Description of the project** |**Skills and tools**
 :-----------:|----------|------------------------  
 1|[**Исследование рынка недвижимости Санкт Петербурга**](https://nbviewer.jupyter.org/github/konicaRu/i_am_data_analyst/blob/master/2_project_research_data_analysis/2_project_flat_for_sale.ipynb).<br>Исследовал и установил параметры, которые в той или иной степени оказывают влияение на финальную стоимость квартиры. Данные необходимы для построения автоматизированной системы оценки квартир. <br>***Основные факторы влияющие на цену: месторасположение, близость к центру и метро.***| `Python`, `Pandas`, `Matplotlib`, `исследовательский анализ данных`, `визуализация данных`, `предобработка данных`.
 2|[**Исследование для телеком компании, определение перспективного тарифа**](https://nbviewer.jupyter.org/github/konicaRu/data_analyst/blob/master/3_project_statistical_analysis_data/3_project_telecom_tariff.ipynb)<br>Проанализировал тарифы мобильного оператора и поведение клиентов. Подготовил отчем для отдела маркетинга — как можно улучшить тарифы.<br>***Даны рекомендации: включать больше бесплатных минут и интернет трафика в тарифы компании. И усилить экспансию а регионы*** |`Python`, `Pandas`, `Matplotlib`, `NumPy`, `SciPy`, `описательная статистика`, `проверка статистических гипотез`
