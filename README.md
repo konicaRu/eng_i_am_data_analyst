@@ -1,4 +1,6 @@
-![](https://github.com/konicaRu/pictures_blog/blob/master/anal_logo_yn_logo_prof.jpg)
+[![](https://github.com/konicaRu/pictures_blog/blob/master/anal_logo_yn_logo_prof.jpg)](https://www.cyberforum.ru/ "CyberForum.ru")
+
+[![CyberForum.ru](https://www.cyberforum.ru/images/cyberforum_logo.jpg)](https://www.cyberforum.ru/ "CyberForum.ru")
 
 [logo]: http://www.google.com/images/logo.gif
 [google]: http://www.google.com/ "щелкните, чтобы посетить Google.com"
