@@ -1,15 +1,14 @@
-## Проект исследование продаж компьютерных игр за 1992-2016 год. Для планирования их продаж в будущем
+## Project research of sales of computer games for 1992-2016. To plan their future sales
 __________________________
-Анализируем продажи интернет-магазина компьютерных игр и игр для консолей за прошедшие года. Выявляем  определяющие успешность игры закономерности. В отчете указал перспектиные для закупа жанры и платформы для компьютерных игр в предстоящем сезоне. Отчет отправлен в отдел маркетинга. В результате планируется увелитчить продажи игр по сравнению с прошлым годом на 15%
+We analyze the sales of the online store of computer games and games for consoles over the past years. We identify the regularities that determine the success of the game. The report indicated promising genres and platforms for computer games for the upcoming season. The report was sent to the marketing department. As a result, it is planned to increase sales of games by 15% compared to last year.
 ______________________________________________
-## Используемые инструменты
+## Used tools
 Python,
 Pandas,
 NumPy,
 Matplotlib,
-предобработка данных,
-исследовательский анализ данных,
-описательная статистика,
-проверка статистических гипотез
-
-[**Ссылка на проект в nbviewer**](https://nbviewer.jupyter.org/github/konicaRu/i_am_data_analyst/blob/master/4_complete_project_1/complete_project_1_computer%20games.ipynb)
+data preprocessing,
+exploratory data analysis,
+descriptive statistics,
+statistical hypothesis testing
+[**Link to the project in nbviewer**](https://nbviewer.jupyter.org/github/konicaRu/eng_i_am_data_analyst/blob/master/4_complete_project_1/complete_project_eng_1_computer_games.ipynb )
