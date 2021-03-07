@@ -10,4 +10,4 @@ ____________________
 - descriptive statistics
 - statistical hypothesis testing
 
-[**Link to project in nbviewer**](https://nbviewer.jupyter.org/github.com/konicaRu/eng_i_am_data_analyst/blob/master/3_project_statistical_analysis_data/3_eng_project_telecom_tariff.ipynb)
+[**Link to project in nbviewer**](https://nbviewer.jupyter.org/github/konicaRu/eng_i_am_data_analyst/blob/master/3_project_statistical_analysis_data/3_eng_project_telecom_tariff.ipynb)
