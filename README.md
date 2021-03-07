@@ -1,4 +1,4 @@
-[![](https://github.com/konicaRu/pictures_blog/blob/master/anal_logo_yn_logo_prof.jpg)](https://praktikum.yandex.ru/ "Яндекс практикум")
+[![](https://github.com/konicaRu/pictures_blog/blob/master/praktikum_eng.jpg)](https://praktikum.yandex.com/ "Yandex.Praktikum")
 
 ## Description of my projects. 
 **№** |**Description of the project** |**Skills and tools**
