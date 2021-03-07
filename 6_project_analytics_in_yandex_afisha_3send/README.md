@@ -1,13 +1,13 @@
-## Проект по оптимизация маркетинговых затрат в Яндекс.Афише
+## Project to optimize marketing costs in Yandex.Afisha
 _____________________
-На основе данных о посещениях сайта Яндекс.Афиши проанализировал как люди пользуются продуктом, когда они начинают покупать, сколько денег приносит каждый клиент, когда он окупается  Сформировал  рекомендации по оптимизация маркетинговых затрат, для повышения маржинальности бизнеса
+Based on the data of visits to Yandex.Afisha analyzed how people use the product, when they start buying, how much money each customer brings, when it pays off formed recommendations for the optimization of marketing costs, to improve the margin of the business
 ____________________________
-**Используемые инструменты**
+**Tools used**
 Python,
 Pandas,
 Matplotlib,
-когортный анализ,
-юнит-экономика,
-продуктовые метрики, LTV, CAC, Retention rate, DAU, WAU, MAU, ROMI 
+cohort analysis,
+unit economy,
+product metrics, LTV, CAC, Retention rate, DAU, WAU, MAU, ROMI 
  
-[Сыылка на проект через nbviewer.jupyter.org ](https://nbviewer.jupyter.org/github/konicaRu/i_am_data_analyst/blob/master/6_project%20_analytics_in_yandex_afisha_3send/6_project%20_analytics_in_yandex_afisha_3send.ipynb)
+[Project link through nbviewer.jupyter.org](https://nbviewer.jupyter.org/github/konicaRu/eng_i_am_data_analyst/blob/master/6_project_analytics_in_yandex_afisha_3send/6_eng_project%20_analytics_in_yandex_afisha_3send.ipynb)
