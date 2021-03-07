@@ -1,13 +1,13 @@
-## Проект определение перспективного тарифа для телеком компании
+## Prospective tariff definition project for a telecom company
 _________________
-Поанализировал тарифы мобильного оператора.  Проверил гипотезы о различии выручки абонентов разных тарифов и различии выручки абонентов из Москвы и других регионов. На основании поведения и трат клиентов был сформирован отчет для отдела развития копании, какой из тарифов лучше. Были приняты решения для увеличения выручки компании. 
+Analyzed the rates of the mobile operator.  Tested hypotheses about the difference in revenues of subscribers of different tariffs and the difference in revenues of subscribers from Moscow and other regions. Based on customer behavior and spending, a report was generated for the company's development department, which of the tariffs is better. Decisions have been made to increase the company's revenue. 
 ____________________
-### Инструменты:
+### Tools:
 - Pandas
 - Matplotlib
 - NumPy
 - SciPy
-- описательная статистика
-- проверка статистических гипотез
+- descriptive statistics
+- statistical hypothesis testing
 
-[**Ссылка на проект в nbviewer**](https://nbviewer.jupyter.org/github/konicaRu/data_analyst/blob/master/3_project_statistical_analysis_data/3_project_telecom_tariff.ipynb)
+[**Link to project in nbviewer**](https://nbviewer.jupyter.org/github/konicaRu/data_analyst/blob/master/3_project_statistical_analysis_data/3_project_telecom_tariff.ipynb)
