@@ -8,5 +8,5 @@ ______________________________________
 - Pandas
 - PyMystem3
 - лемматизация  
-[**Ссылка на проект в nbviewer**](https://nbviewer.jupyter.org/github/konicaRu/i_am_data_analyst/blob/master/1_project__bank_credit_department/1_project_git_finance_bank_loan.ipynb)
+[**Ссылка на проект в nbviewer**](https://nbviewer.jupyter.org/github/konicaRu/eng_i_am_data_analyst/blob/master/1_project_bank_credit_department/1_project_git_finance_bank_loan.ipynb)
 =======
