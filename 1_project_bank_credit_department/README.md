@@ -8,4 +8,4 @@ ______________________________________
 - Pandas
 - PyMystem3
 - lemmatization 
-[**Project link in nbviewer**](https://nbviewer.jupyter.org/github/konicaRu/eng_i_am_data_analyst/blob/master/1_project_bank_credit_department/1_project_git_finance_bank_loan.ipynb
+[**Project link in nbviewer**](https://nbviewer.jupyter.org/github/konicaRu/eng_i_am_data_analyst/blob/master/1_project_bank_credit_department/1_project_git_finance_bank_loan.ipynb)
